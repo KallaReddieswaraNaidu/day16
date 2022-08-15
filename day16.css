@@ -1,0 +1,19 @@
+p{
+    
+border-top: 1px solid;
+padding-top: 25%;
+padding-left: 50%;
+ font-size: 25px;
+ display: inline-flex;
+
+}
+#countdown{
+    border:25px;
+    padding-left: 50%;
+    font-size: 40px;
+}
+   
+ *{
+    
+        background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg/1200px-Azadi_Ka_Amrit_Mahotsav_%28English%29_logo.svg.png");
+    }
